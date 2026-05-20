@@ -1,5 +1,5 @@
 /* ======== CONFIG ======== */
-const API_KEY = "YOUR_API_KEY"; // Get free key: https://www.alphavantage.co/support/#api-key
+const API_KEY = "O8O0V30YW2WX1KRG";
 const API_BASE = "https://www.alphavantage.co/query";
 const CACHE_TTL = 15 * 60 * 1000;
 
